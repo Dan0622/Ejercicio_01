@@ -22,9 +22,10 @@ ingrese su email:
 elija el paquete turistico:
 <br>
 <select>
-<option value="1">estandar</option> 
-<option value="2">economico</option>
-<option value="3">premium</option>
+<option value="1">Estandar</option> 
+<option value="2">Economico</option>
+<option value="3">Premium</option>
+<option value="4">VIP</option>
 </select>
 <br>
 <br>
